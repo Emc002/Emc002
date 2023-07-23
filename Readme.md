@@ -39,14 +39,9 @@
 ##### Interests
 - :globe_with_meridians: Web Development - I enjoy building web applications and exploring new technologies for frontend and backend development.
 - :computer: Cybersecurity - I'm always curious about finding vulnerabilities and learning how to secure systems.
-- :gear: Open Source - I believe in the power of open-source software and actively contribute to the community.
 
-##### Projects
-I have a variety of projects in my repositories, including personal projects, security tools, and contributions to open-source projects. Feel free to explore and provide feedback!
-
-## Get in Touch
+##### Get in Touch
 - :mailbox: Email: [alifnafisalghany@gmail.com](mailto:alifnafisalghany@gmail.com)
 - :briefcase: LinkedIn: [alifnafisalghany](https://www.linkedin.com/in/alifnafisalghany/)
-- 
 Feel free to connect with me! I'm always excited to collaborate on new projects or discuss interesting tech topics.
 Happy coding! 🚀
