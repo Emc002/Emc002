@@ -42,6 +42,8 @@
 
 ##### Get in Touch
 - :mailbox: Email: [alifnafisalghany@gmail.com](mailto:alifnafisalghany@gmail.com)
-- :briefcase: LinkedIn: [alifnafisalghany](https://www.linkedin.com/in/alifnafisalghany/)
+- :briefcase: LinkedIn: [Alif Nafis A.](https://www.linkedin.com/in/alif-nafis-alghany-703542253/)
+- 
 Feel free to connect with me! I'm always excited to collaborate on new projects or discuss interesting tech topics.
+
 Happy coding! 🚀
