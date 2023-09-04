@@ -1,7 +1,5 @@
 <h1 align="center">HELLO FRIEND</h1>
 
-> "Why do they always say 'follow the money'? but what if it's not about the money at all? What if it's about something broader, something more profound? The reality we vaguely perceive is perhaps not the actual world, but merely our mind's best guess. That all we really have is a garbled reality, a fuzzy picture we will never truly make out?  But does any of it real? Do I even exist? Perhaps that's why I'm not afraid to die. You can't be afraid to die if you don't exist. Sometimes, it feels like we are all just stumbling from the right questions to the wrong answers, or from the right answers to the wrong questions.  I might not even know what's real anymore. I understand it's all an illusion, but it's an illusion I don't want to let go of."
-
 ##### Operating Systems
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 *_Using Kali Linux for coding, exploring different security tools, and diving into the fascinating world of cybersecurity.*
@@ -39,6 +37,8 @@
 ##### Interests
 - :globe_with_meridians: Web Development - I enjoy building web applications and exploring new technologies for frontend and backend development.
 - :computer: Cybersecurity - I'm always curious about finding vulnerabilities and learning how to secure systems.
+
+> "Why do they always say 'follow the money'? but what if it's not about the money at all? What if it's about something broader, something more profound? The reality we vaguely perceive is perhaps not the actual world, but merely our mind's best guess. That all we really have is a garbled reality, a fuzzy picture we will never truly make out?  But does any of it real? Do I even exist? Perhaps that's why I'm not afraid to die. You can't be afraid to die if you don't exist. Sometimes, it feels like we are all just stumbling from the right questions to the wrong answers, or from the right answers to the wrong questions.  I might not even know what's real anymore. I understand it's all an illusion, but it's an illusion I don't want to let go of."
 
 ##### Get in Touch
 - :mailbox: Email: [alifnafisalghany@gmail.com](mailto:alifnafisalghany@gmail.com)
